@@ -24,7 +24,8 @@ In this tutorial I will be discussing how to find email address with regex(regul
 
 ### Greedy Quantifier
 `+` Is used to find more than one word as:
-`\w+`
+`\w+` 
+- refer to https://docs.microsoft.com/en-us/dotnet/standard/base-types/quantifiers-in-regular-expressions for more infomation on Quantifiers.
 
 ### OR Operator
 `|` Is used to symbolize or, in the group it is used to locate this one or etc.: `(net|com|edu)` 
