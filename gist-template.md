@@ -22,12 +22,12 @@ In this tutorial I will be discussing how to find email address with regex(regul
 
 ## Regex Components
 
-### Anchors
-
-### Quantifiers
+### Greedy Quantifier
+`+` Is used to find more than one word as:
+`\w+`
 
 ### OR Operator
-
+`|` Is used to symbolize or, in the group it is used to locate this one or etc.: `(net|com|edu)` 
 ### Character Classes
 
 ### Flags
