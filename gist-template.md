@@ -55,3 +55,6 @@ https://github.com/Mindydiane/break-down-re-g-ex/blob/main/gist-template.md
 
 ### Watch walk through video in YouTube
 https://youtu.be/8pd-yp2-Bm4
+
+### Or see the same video through screencastify
+https://drive.google.com/file/d/1A7pyjEPpgGVuJA26F4PTqb-wmYMdRQKa/view
