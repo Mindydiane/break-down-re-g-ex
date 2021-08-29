@@ -46,4 +46,5 @@ In this tutorial I will be discussing how to find email address with regex(regul
 
 ## Author
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+### Watch walk through video in YouTube
+https://youtu.be/8pd-yp2-Bm4
