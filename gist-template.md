@@ -1,10 +1,10 @@
 # Find-it-W/-Expressions!
 
-Introductory paragraph (replace this with your text)
+Using regular expressions/regex may be intimidating at first. But once learned are a lot of fun and make it easier to find and revise code.
 
 ## Summary
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+In this tutorial I will be discussing how to find email address with regex(regular expressions)
 
 ## Table of Contents
 
