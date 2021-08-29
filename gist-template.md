@@ -29,20 +29,27 @@ In this tutorial I will be discussing how to find email address with regex(regul
 
 ### OR Operator
 `|` Is used to symbolize or, in the group it is used to locate this one or etc.: `(net|com|edu)` 
+
 ### Character Classes
  A Character class is anything inside of `[]`
  It is used to include words with .(s) such as `[\w.]
+ * for more information on classes go to:
+ https://www.regular-expressions.info/refcharclass.html
+
 ### Flags
+`Global` and `Multi line` Flags are used as shown on this image:
+![image](https://user-images.githubusercontent.com/80286982/131267473-9ed007d9-3438-4559-aca8-8ea73e431dea.png)
+* refer to link to test your own expression: https://regex101.com/
 
 ### Grouping and Capturing
+Is a part of a pattern that can be enclosed in parentheses (...) It is used to capture ` (net|com|edu)`
 
 ### Bracket Expressions
 
-### Greedy and Lazy Match
-
-### Boundaries
 
 ### Back-references
+#### A million thanks to the coding train aka coding rainbow videos! 
+https://www.youtube.com/watch?v=EfJU0Y9WAZ4&t=0s
 
 ### Look-ahead and Look-behind
 
