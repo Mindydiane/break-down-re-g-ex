@@ -45,6 +45,13 @@ In this tutorial I will be discussing how to find email address with regex(regul
 ### Look-ahead and Look-behind
 
 ## Author
+Mindy Diane Garza
+
+### Check out my github
+https://github.com/mindydiane
+
+### MD Repository link
+https://github.com/Mindydiane/break-down-re-g-ex/blob/main/gist-template.md
 
 ### Watch walk through video in YouTube
 https://youtu.be/8pd-yp2-Bm4
