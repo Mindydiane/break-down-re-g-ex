@@ -8,14 +8,13 @@ In this tutorial I will be discussing how to find email address with regex(regul
 
 ## Table of Contents
 
-- [Anchors](#anchors)
+
 - [Quantifiers](#quantifiers)
 - [OR Operator](#or-operator)
 - [Character Classes](#character-classes)
 - [Flags](#flags)
 - [Grouping and Capturing](#grouping-and-capturing)
 - [Bracket Expressions](#bracket-expressions)
-- [Greedy and Lazy Match](#greedy-and-lazy-match)
 - [Boundaries](#boundaries)
 - [Back-references](#back-references)
 - [Look-ahead and Look-behind](#look-ahead-and-look-behind)
@@ -30,9 +29,10 @@ In this tutorial I will be discussing how to find email address with regex(regul
 ### OR Operator
 `|` Is used to symbolize or, in the group it is used to locate this one or etc.: `(net|com|edu)` 
 
-### Character Classes
+### Character Classes 
+
  A Character class is anything inside of `[]`
- It is used to include words with .(s) such as `[\w.]
+ It is used to include words with .(s) such as `[\w.]`
  * for more information on classes go to:
  https://www.regular-expressions.info/refcharclass.html
 
@@ -46,12 +46,15 @@ Is a part of a pattern that can be enclosed in parentheses (...) It is used to c
 
 ### Bracket Expressions
 
+A bracket expression (an expression enclosed in square brackets, "[]" ) is an RE that shall match a specific set of single characters, and may match a specific set of multi-character collating elements, based on the non-empty set of list expressions contained in the bracket expression.
+*  for more on bracket expressions go to: 
+https://pubs.opengroup.org/onlinepubs/9699919799/basedefs/V1_chap09.html
+* refer to classes to see how they are used to find email address with regular expressions
+- [Character Classes](#character-classes)
 
 ### Back-references
 #### A million thanks to the coding train aka coding rainbow videos! 
 https://www.youtube.com/watch?v=EfJU0Y9WAZ4&t=0s
-
-### Look-ahead and Look-behind
 
 ## Author
 Mindy Diane Garza
