@@ -21,7 +21,7 @@ In this tutorial I will be discussing how to find email address with regex(regul
 - [Look-ahead and Look-behind](#look-ahead-and-look-behind)
 
 ## Regex Components
-
+`[\w.]+@\w+\.(net|com|edu)`
 ### Greedy Quantifier
 `+` Is used to find more than one word as:
 `\w+` 
@@ -30,7 +30,8 @@ In this tutorial I will be discussing how to find email address with regex(regul
 ### OR Operator
 `|` Is used to symbolize or, in the group it is used to locate this one or etc.: `(net|com|edu)` 
 ### Character Classes
-
+ A Character class is anything inside of `[]`
+ It is used to include words with .(s) such as `[\w.]
 ### Flags
 
 ### Grouping and Capturing
