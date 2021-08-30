@@ -29,8 +29,10 @@ In this tutorial I will be discussing how to find email address with regex(regul
 ### Greedy Quantifier
 `+` Is used to find more than one word as:
 `\w+` 
-- refer to https://docs.microsoft.com/en-us/dotnet/standard/base-types/quantifiers-in-regular-expressions for more infomation on Quantifiers.
 ![image](https://user-images.githubusercontent.com/80286982/131269003-b08dc525-8395-4cda-a389-329a5fa1b36d.png)
+
+- refer to https://docs.microsoft.com/en-us/dotnet/standard/base-types/quantifiers-in-regular-expressions for more infomation on Quantifiers.
+
 
 ### OR Operator
 `|` Is used to symbolize or, in the group it is used to locate this one or etc.: `(net|com|edu)` 
@@ -40,9 +42,11 @@ In this tutorial I will be discussing how to find email address with regex(regul
 
  A Character class is anything inside of `[]`
  It is used to include words with .(s) such as `[\w.]`
+  ![image](https://user-images.githubusercontent.com/80286982/131269099-b2b0f9d1-7757-4776-8a9e-795b61fcef01.png)
+  
  * for more information on classes go to:
  https://www.regular-expressions.info/refcharclass.html
- ![image](https://user-images.githubusercontent.com/80286982/131269099-b2b0f9d1-7757-4776-8a9e-795b61fcef01.png)
+
 
 ### Flags
 `Global` and `Multi line` Flags are used as shown on this image:
